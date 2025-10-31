@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- ****** Footer Social Icon Area Start ****** -->
+<!-- ****** Footer Social Icon Area Start ****** -->
     <div class="social_icon_area clearfix">
         <div class="container">
             <div class="row">
@@ -95,6 +95,5 @@
         </div>
     </footer>
 
-    <!-- ****** Footer Menu Area End ****** -->
 </body>
 </html>
